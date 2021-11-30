@@ -16,4 +16,4 @@ Hello, Ash Ketchum
 FirstName = str(input("What is your first name? "))
 LastName = str(input("What is your last name? "))
 
-print("Hello,", FirstName + LastName) 
+print("Hello,", FirstName + " " + LastName) 
